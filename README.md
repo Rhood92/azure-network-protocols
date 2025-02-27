@@ -3,6 +3,8 @@
 ## Overview
 This project involves inspecting various network protocols using Wireshark. The setup includes a Windows VM and a Linux VM running on Azure. The network traffic between these machines is captured and analyzed.
 
+### Click on the images to get a clearer view of the network traffic in Wireshark.
+
 ## Table of Contents
 - [Setup](#setup)
 - [Installing Wireshark](#installing-wireshark)
