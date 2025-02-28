@@ -46,6 +46,10 @@ This project involves inspecting various network protocols using Wireshark. The 
 - Applied `icmp` filter to view ping requests and responses.
   
   ![ICMP Traffic](https://github.com/user-attachments/assets/5147f190-da46-4a55-9efe-b79d84ad31a8)
+  ![image](https://github.com/user-attachments/assets/a0449cac-a28d-47cd-8eaa-03bece931d9c)
+  ![image](https://github.com/user-attachments/assets/9d00d673-6473-4e6c-97f2-b2e456684d95)
+
+
   
 #### 🔹 **SSH Traffic**
 - Used `ssh` filter to observe encrypted SSH sessions.
@@ -77,10 +81,15 @@ This project involves inspecting various network protocols using Wireshark. The 
 - **Created firewall rules** on Azure to block ICMP traffic to the Linux VM.
   
   ![Firewall Rules](https://github.com/user-attachments/assets/4cbf9bfd-9ff6-40b6-9475-62bb9f2df9f0)
-  
+  ![image](https://github.com/user-attachments/assets/80ce5bfd-0615-4c64-b033-fb645222f23f)
+  ![image](https://github.com/user-attachments/assets/7a56f7e1-e2cc-4f0c-b45d-388091b61396)
+
 - **Verified that ICMP traffic was blocked.**
   
   ![Blocked ICMP Traffic](https://github.com/user-attachments/assets/e9bed013-e178-42bf-a0d5-8b51eee26f56)
+  ![image](https://github.com/user-attachments/assets/f38ab521-eeda-4496-aa62-68d37cce7443)
+  ![image](https://github.com/user-attachments/assets/b8f38a48-ce94-480a-a5a9-adfbef4e167b)
+
 
 #### 🔹 **Restoring ICMP Traffic**
 - **Deleted firewall rule** to allow ICMP traffic again.
