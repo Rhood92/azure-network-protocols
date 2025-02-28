@@ -1,7 +1,7 @@
 # Wireshark Network Protocol Inspection
 
-**Author:** [Your Name]  
-**Date:** [Date]  
+**Author:** Richard Hood Jr. 
+**Date:** 2/27/25 
 **Category:** Network Security & Threat Analysis  
 
 ---
@@ -129,6 +129,3 @@ This project involves inspecting various network protocols using Wireshark. The 
 ### 📌 **Repository Information**
 
 💡 This project is designed for **educational & security research purposes**. If you're interested in **network security, protocol analysis, or Wireshark**, feel free to explore and contribute!  
-
-📁 _Repo: [GitHub Link]_  
-📬 _Contact: [Your Contact]_
