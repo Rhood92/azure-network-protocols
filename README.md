@@ -55,11 +55,15 @@ This project involves inspecting various network protocols using Wireshark. The 
 - Used `ssh` filter to observe encrypted SSH sessions.
   
   ![SSH Traffic](https://github.com/user-attachments/assets/4e71af7c-d2fc-4197-a416-2b49f236fa09)
+  ![image](https://github.com/user-attachments/assets/1f53c45b-c0e4-4274-8a03-654b2072e51e)
+  ![image](https://github.com/user-attachments/assets/2d5caaaf-e34c-4020-b159-fdedce77afe1)
+  ![image](https://github.com/user-attachments/assets/fa60351a-9f44-4c3d-9755-af120d3b781f)
 
 #### 🔹 **HTTP/HTTPS Traffic**
 - Applied `tcp.port == 443` filter to analyze secure web traffic.
   
   ![HTTPS Traffic](https://github.com/user-attachments/assets/339ba5e2-2313-4321-ae3a-e89324d22a14)
+  ![image](https://github.com/user-attachments/assets/193cfd26-b8c9-466d-a004-5a1f0ebdd834)
 
 #### 🔹 **DNS Traffic**
 - Used `dns` filter to analyze domain name resolution.
