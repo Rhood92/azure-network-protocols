@@ -1,7 +1,9 @@
 # Wireshark Network Protocol Inspection
 
 **Author:** Richard Hood Jr. 
+
 **Date:** 2/27/25 
+
 **Category:** Network Security & Threat Analysis  
 
 ---
